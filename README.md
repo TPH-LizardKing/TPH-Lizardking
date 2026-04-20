@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Jason Sosa
+# Hi, I'm Jason Sosa
 
 ### Computer Science Graduate | Full-Stack Developer in Training | Future DevOps Engineer
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```javascript
 const sosa = {
@@ -28,15 +28,15 @@ const sosa = {
 
 ---
 
-## 💼 Currently Working On
+## Currently Working On
 
-🌐 Building my full-stack foundation with modern web technologies    
-🎨 Creating responsive, accessible web applications  
-🔧 Planning projects: Photo booth app, 3D print request tracker, achievement system  
+Building my full-stack foundation with modern web technologies    
+Creating responsive, accessible web applications  
+Planning projects: Photo booth app, 3D print request tracker, achievement system  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -71,7 +71,7 @@ const sosa = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -85,7 +85,7 @@ const sosa = {
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
