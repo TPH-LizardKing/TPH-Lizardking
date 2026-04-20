@@ -30,8 +30,7 @@ const sosa = {
 
 ## 💼 Currently Working On
 
-🌐 Building my full-stack foundation with modern web technologies  
-📚 Following a structured roadmap: HTML → CSS → JavaScript → React → Backend → DevOps  
+🌐 Building my full-stack foundation with modern web technologies    
 🎨 Creating responsive, accessible web applications  
 🔧 Planning projects: Photo booth app, 3D print request tracker, achievement system  
 
