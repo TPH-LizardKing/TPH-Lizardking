@@ -99,7 +99,7 @@ Planning projects: Photo booth app, 3D print request tracker, achievement system
 
 <div align="center">
 
-### 💡 *From CS Graduate to Full-Stack Developer to DevOps Engineer - one commit at a time!*
+### *From CS Graduate to Full-Stack Developer to DevOps Engineer - one commit at a time!*
 
 **Thanks for visiting!** ⭐ Star my repos if you find them interesting!
 
