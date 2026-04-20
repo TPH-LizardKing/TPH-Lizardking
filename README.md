@@ -4,9 +4,9 @@
 
 ### Computer Science Graduate | Full-Stack Developer in Training | Future DevOps Engineer
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-sosa-4131b03a0/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:(jasonsosa04.js@gmail.com))
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TPH-LizardKing)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedIn)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:(email))
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](github)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TPH-LizardKing&color=blueviolet&style=flat-square)
 
@@ -90,8 +90,8 @@ const sosa = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
@@ -105,3 +105,7 @@ const sosa = {
 **Thanks for visiting!** ⭐ Star my repos if you find them interesting!
 
 </div>
+
+[linkedin]: https://www.linkedin.com/in/jason-sosa-4131b03a0/
+[email]: mailto:jasonsosa04.js@gmail.com
+[github]: https://github.com/TPH-LizardKing
