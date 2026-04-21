@@ -16,22 +16,15 @@
 
 ## About Me
 
-```javascript
-const sosa = {
-    education: "Computer Science Graduate",
-    currentFocus: "Full-Stack Web Development",
-    learning: ["CSS", "JavaScript", "React", "Node.js"],
-    interests: ["DevOps", "Data Analysis", "3D Printing", "Electronics"],
-    goals: ["Master Full-Stack", "Transition to DevOps", "Explore Data Science"],
-};
-```
+I am a Computer Science Student with a passion for bettering my coding skills and learning DevOps. I am currently working on my full-stack development skills and learning DevOps along the way. I am also interested in Data Science and 3D Printing and Electronics. Currently I am working on random projects With the goal of mastering Full-Stack development and transitioning to DevOps.
+
 
 ---
 
 ## Currently Working On
 
 Building my full-stack foundation with modern web technologies    
-Creating responsive, accessible web applications  
+Creating responsive, accessible web applicationzzs  
 Planning projects: Photo booth app, 3D print request tracker, achievement system  
 
 ---
@@ -99,9 +92,7 @@ Planning projects: Photo booth app, 3D print request tracker, achievement system
 
 <div align="center">
 
-### *From CS Graduate to Full-Stack Developer to DevOps Engineer - one commit at a time!*
-
-**Thanks for visiting!** ⭐ Star my repos if you find them interesting!
+**Thanks for visiting!** 
 
 </div>
 
